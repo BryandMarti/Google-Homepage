@@ -1,4 +1,4 @@
-
+/* git push -u origin main */
 /* Removes padding and marging from body of the page */
 
 body {
@@ -15,7 +15,6 @@ body {
 }
 
 .leftLinks {
-  display: inline-flexbox;
   word-spacing: 15px;
   margin-left: 1rem;
 }
